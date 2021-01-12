@@ -1,0 +1,7 @@
+tenacity
+keyring
+pytest-forked==1.0.2
+pytest-xdist
+pytest>=3.3.0
+pytest-console-scripts
+requests>=2.18.1
